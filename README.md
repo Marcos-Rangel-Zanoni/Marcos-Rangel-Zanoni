@@ -3,7 +3,7 @@
 
 <div>
 <a href="https://www.linkedin.com/in/marcos-rangel-r-zanoni-0734891b9"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height= "50" /></a>
-<a href="https://instagram.com/marcosrangelll?igshid=OGQ5ZDc2ODk2ZA==">![Badges](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+<a href="https://instagram.com/marcosrangelll"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 ## Hello Everyone !
