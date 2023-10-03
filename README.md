@@ -41,8 +41,8 @@ Tenho 21 anos, residindo em Presidente Bernardes/SP, e sou um entusiasta da tecn
 
 <div>
 <a href="https://github.com/Marcos-Rangel-Zanoni">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Marcos-Rangel-Zanoni&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Marcos-Rangel-Zanoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?marcos-rangel-zanoni&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?marcos-rangel-zanoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <!--
 **Marcos-Rangel-Zanoni/Marcos-Rangel-Zanoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
