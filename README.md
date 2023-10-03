@@ -1,4 +1,8 @@
 # Marcos Rangel Rodrigues Zanoni
+<a href="https://www.linkedin.com/in/marcos-rangel-r-zanoni-0734891b9/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
+
 ## Hello Everyone !
 
 
