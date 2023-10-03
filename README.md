@@ -2,7 +2,7 @@
 # Marcos Rangel Rodrigues Zanoni
 
 <div>
-<a href="https://www.linkedin.com/in/marcos-rangel-r-zanoni-0734891b9"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height= "50" /></a>
+<a href="https://www.linkedin.com/in/marcos-rangel-r-zanoni-0734891b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/marcosrangelll"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
