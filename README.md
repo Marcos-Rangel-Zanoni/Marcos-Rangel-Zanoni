@@ -1,8 +1,9 @@
 # Marcos Rangel Rodrigues Zanoni
 
-
+<div>
+<a href="https://www.linkedin.com/in/marcos-rangel-r-zanoni-0734891b9"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height= "50" /></a>
+</div>
 ## Hello Everyone !
-
 
 <!--
 **Marcos-Rangel-Zanoni/Marcos-Rangel-Zanoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
