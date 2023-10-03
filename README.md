@@ -1,5 +1,5 @@
 # Marcos Rangel Rodrigues Zanoni
-<a href="https://www.linkedin.com/in/marcos-rangel-r-zanoni-0734891b9/">
+<a href="https://www.linkedin.com/in/marcos-rangel-r-zanoni-0734891b9" style="width: 50px; height: 50px ">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
 
