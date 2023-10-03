@@ -42,8 +42,8 @@ Tenho 21 anos, residindo em Presidente Bernardes/SP, e sou um entusiasta da tecn
 ##
 <p align="center">
 <a href="https://github.com/Marcos-Rangel-Zanoni">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marcos-Rangel-Zanoni&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcos-Rangel-Zanoni&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marcos-Rangel-Zanoni&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcos-Rangel-Zanoni&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <!--
