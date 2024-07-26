@@ -14,7 +14,7 @@
 
 ## Hello Everyone!
 
-Tenho 21 anos, residindo em Presidente Bernardes/SP, e sou um entusiasta da tecnologia e áreas afins. Identifico-me como um explorador no vasto universo da programação, onde encontro paixão em solucionar problemas (bugs) e desenvolver projetos que me permitem aprimorar minhas habilidades em diversas estruturas e linguagens de programação. Curiosamente, a medida que continuo aprendendo e enfrentando desafios, cresce minha afinidade e entusiasmo por este campo! ❤
+Tenho 22 anos, residindo em Presidente Bernardes/SP, e sou um entusiasta da tecnologia e áreas afins. Identifico-me como um explorador no vasto universo da programação, onde encontro paixão em solucionar problemas (bugs) e desenvolver projetos que me permitem aprimorar minhas habilidades em diversas estruturas e linguagens de programação. Curiosamente, a medida que continuo aprendendo e enfrentando desafios, cresce minha afinidade e entusiasmo por este campo! ❤
 
 ### 🖥️ Tecnologias e Ferramentas:
 
